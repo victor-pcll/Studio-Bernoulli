@@ -1,0 +1,30 @@
+@import './base.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'DotGothic16';
+  src: url('./DotGothic16/DotGothic16-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+#app {
+  font-weight: normal;
+}
+
+a{
+  text-decoration: none;
+  transition: 0.4s;
+}
+
+body {
+  display: flex;
+  place-items: center;
+}
+
+.title{
+  font-family: 'DotGothic16', sans-serif;
+}
