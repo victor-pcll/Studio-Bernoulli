@@ -1,29 +1,20 @@
-# STUDIO
+# Studio Bernoulli
 
-This template should help get you started developing with Vue 3 in Vite.
+**Studio Bernoulli** is a modern and responsive website built using [Vue 3](https://vuejs.org/), [Tailwind CSS](https://tailwindcss.com/), and [Vite](https://vitejs.dev/). It showcases the creative work and services of our digital studio.
 
-## Recommended IDE Setup
+## 🛠️ Tech Stack
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- **Vue 3** – Reactive and component-based JavaScript framework
+- **Tailwind CSS** – Utility-first CSS framework for fast UI styling
+- **Vite** – Next-generation frontend build tool for lightning-fast development
 
-## Customize configuration
+## 🚀 Getting Started
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+### Prerequisites
 
-## Project Setup
+Make sure you have Node.js (v16 or higher) and npm installed.
 
-```sh
+### Install dependencies
+
+```bash
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
